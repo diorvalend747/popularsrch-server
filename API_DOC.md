@@ -57,14 +57,6 @@ Response (500 - Bad Request)
 
 > Get data Search from Twitter
 
-Request Header
-
-```
-{
-  "authorization: ": "<bearer token>"
-}
-```
-
 
 Request Body
 
